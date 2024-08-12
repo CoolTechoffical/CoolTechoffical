@@ -15,9 +15,9 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CoolTechoffical-Tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CoolTechoffical-tg&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolTechoffical-tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=CoolTechoffical&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CoolTechoffical&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolTechoffical&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=CoolTechoffical&theme=darkhub)
