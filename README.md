@@ -14,7 +14,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoolTechoffical&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CoolTechoffical&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolTechoffical&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
