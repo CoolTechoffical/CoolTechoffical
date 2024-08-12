@@ -1,4 +1,4 @@
-## Hi 👋, I'm CoolTechoffical
+## Hi 👋, I'm [CoolTechoffical]
 - 🌱 I’m currently learning new languages
 
 <p align="left">
@@ -14,7 +14,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoolTechoffical&show_icons=true&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CoolTechoffical&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CoolTechoffical&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolTechoffical&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -23,5 +23,15 @@
 
 ### ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://youtube.com/@cooltechnologymull-coding?si=7S7Gk94ycq06DR84" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="CoolTechoffical YouTube" />
+  </a>
+  <a href="https://t.me/XBOTSUPPORTS" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="CoolTechoffical Telegram" />
+  </a>
+</p>
 
 Thanks for visiting my profile 😊
