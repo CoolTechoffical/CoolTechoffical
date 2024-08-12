@@ -1,6 +1,11 @@
 ## Hi 👋, I'm [CoolTechoffical]
 - 🌱 I’m currently learning new languages
 
+</pre>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mishel-Tg&label=Profile%20views&color=129e00&style=plastic" alt="Mishel" />
+</p>
+
 ### 🖥️ Tech Stack:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
