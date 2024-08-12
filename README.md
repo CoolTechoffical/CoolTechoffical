@@ -1,9 +1,8 @@
-## Hi 👋, I'm [CoolTechoffical]
+## Hi 👋, I'm CoolTechoffical
 - 🌱 I’m currently learning new languages
 
-</pre>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CoolTechoffical-Tg&label=Profile%20views&color=129e00&style=plastic" alt="Mishel" />
+  <img src="https://komarev.com/ghpvc/?username=CoolTechoffical-Tg&label=Profile%20views&color=129e00&style=plastic" alt="CoolTechoffical" />
 </p>
 
 ### 🖥️ Tech Stack:
