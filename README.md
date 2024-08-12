@@ -3,7 +3,7 @@
 
 </pre>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mishel-Tg&label=Profile%20views&color=129e00&style=plastic" alt="Mishel" />
+  <img src="https://komarev.com/ghpvc/?username=CoolTechoffical-Tg&label=Profile%20views&color=129e00&style=plastic" alt="Mishel" />
 </p>
 
 ### 🖥️ Tech Stack:
@@ -15,8 +15,9 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoolTechoffical&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolTechoffical&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=CoolTechoffical-Tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CoolTechoffical-tg&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolTechoffical-tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=CoolTechoffical&theme=darkhub)
